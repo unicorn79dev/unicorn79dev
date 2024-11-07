@@ -52,7 +52,7 @@
 ## 🧑 About me:
 
 <p>
-Dynamic and results-oriented Senior Blockchain Developer with 4 years of experience in designing,
+Dynamic and results-oriented Senior Blockchain Developer with 6 years of experience in designing,
 developing, and implementing blockchain solutions. Proficient in blockchain technologies such as
 Ethereum, Hyperledger Fabric, and Solidity smart contracts. Skilled in developing decentralized
 applications (DApps), implementing consensus algorithms, and integrating blockchain with enterprise
