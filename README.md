@@ -171,9 +171,7 @@ solutions that drive business growth.
 <div align="center">
   <img src="Images/Static/divider2.png" alt="divider"/>
 </div> 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
+
 
 <div align="center">
   <img src="Images/Static/divider2.png" alt="divider"/>
